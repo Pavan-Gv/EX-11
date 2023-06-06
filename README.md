@@ -70,9 +70,7 @@ permit more advanced forms of customization.
 
 ### Packet loss:
 
-    Packet loss occurs when one or more packets of data travelling across a computer network fail to reach their
-destination. Packet loss is distinguished as one of the three main error types encountered in digital communic
--ations; the other two being bit error and spurious packets caused due to noise. Packets can be lost in a network
+    Packet loss occurs when one or more packets of data travelling across a computer network fail to reach their destination. Packet loss is distinguished as one of the three main error types encountered in digital communications; the other two being bit error and spurious packets caused due to noise. Packets can be lost in a network
 because they may be dropped when a queue in the network node overflows. The amount of packet loss during the 
 steady state is another important property of a congestion control scheme. The larger the value of packet loss,
 the more difficult it is for transport layer protocols to maintain high bandwidths, the sensitivity to loss of 
