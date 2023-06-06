@@ -17,7 +17,7 @@ Platform support
 FreeBSD, Linux, Solaris, Windows and Mac
 ```
 ### Ns functionalities
-
+```
 • Routing, Transportation, Traffic sources,Queuing disciplines, QoS 
 • Wireless 
 • Ad hoc routing, mobile IP, sensor-MAC 
@@ -31,7 +31,7 @@ analysis. Network simulators can also provide other tools to facilitate visual a
 "events" is stored, and those events are processed in order, with some events triggering future events— such
 as the event of the arrival of a packet at one node triggering the event of the arrival of that packet at
 a downstream node. 
-
+```
 ### Examples of network simulators
 ```
 There are many both free/open-source and proprietary network simulators. Examples of notable network 
